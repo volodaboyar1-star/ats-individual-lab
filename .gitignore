@@ -1,0 +1,29 @@
+# Скомпільовані бінарники
+strsearch
+run_tests
+*.o
+*.out
+*.exe
+
+# Матеріали завдання (не результат роботи)
+Алгоритми Лабораторні 2026.pdf
+Приклад звіту.docx
+Розділи звіту.docx
+
+# Тимчасові файли Office
+~$*
+
+# IDE / редактори / ОС
+.vscode/
+.idea/
+.cache/
+compile_commands.json
+*.swp
+*~
+.DS_Store
+
+# Claude Code
+.claude/
+
+# Результати експериментів (генеруються командою ./strsearch bench)
+results/
