@@ -42,4 +42,4 @@ make check                           # перевірка формату, clang-
 | `src/main.cpp` | консольне меню та режими командного рядка |
 | `tests/tests.cpp` | юніт-тести, зокрема рандомізована перевірка проти `std::string::find` |
 | `data/uk_text.txt` | український текст для другого середовища |
-| `docs/REPORT.md`, `docs/REPORT.docx` | звіт; зображення — у `docs/images/` |
+| `docs/REPORT.md`, `docs/REPORT.docx` | звіт |
